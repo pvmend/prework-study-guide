@@ -19,5 +19,3 @@ N/A
 ## License
 
 Please refer to the LICENSE in the repo.
-# prework-study-guide
-Bootcamp prework study guide for students
